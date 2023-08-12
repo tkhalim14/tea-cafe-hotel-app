@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510210052937",
+    "project_id": "appwithfirebase-7ea3f",
+    "storage_bucket": "appwithfirebase-7ea3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510210052937:android:38fd9d589b7989c2748098",
+        "android_client_info": {
+          "package_name": "com.thesnagtalker007.appwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510210052937-7o6lfa3a1ldtps82trt7se2dlrmh4coj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2EJxOAvegOnvPZXqYJeB5cmoS9cLzTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510210052937-7o6lfa3a1ldtps82trt7se2dlrmh4coj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
