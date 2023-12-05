@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633071673325",
+    "project_id": "myteacoffeeapp",
+    "storage_bucket": "myteacoffeeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633071673325:android:f8f47470d39fd2f4f751e4",
+        "android_client_info": {
+          "package_name": "com.example.tea_coffee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7RZdSKqgytubYqsbHIIjEHdxSyOtXBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
